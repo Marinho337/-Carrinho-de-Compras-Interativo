@@ -23,4 +23,4 @@ Este projeto simula um carrinho de compras simples, onde o usuário pode informa
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/carrinho-de-compras.git
+   git clone https://github.com/Marinho337/carrinho-de-compras.git
